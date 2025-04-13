@@ -15,6 +15,13 @@
   width: 100vw;
   height: 100vh;
 }
+/* Attempt to hide any potential branding elements */
+svg text[fill="#ccc"][font-size="10"] {
+  display: none !important;
+}
+svg a[href*="markmap.js.org"] { /* Use *= to match part of the href */
+  display: none !important;
+}
 </style>
 </head>
 <body>
