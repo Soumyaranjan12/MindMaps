@@ -13,7 +13,9 @@ Below is a list of mind maps in this repository. Each includes a brief descripti
 1. **SAP HANA CPU Utilization Mind Map**  
    - **Description**: Outlines 8 causes of high CPU usage in SAP HANA (e.g., inefficient queries, missing indexes), their fixes (e.g., query optimization, indexing), parameter changes (e.g., `maximum_number_of_sessions`), and SQL views/statements (e.g., `M_SQL_PLAN_CACHE`) for diagnosis.  
    - **Interactive Version**: [hana-cpu-mindmap.html](https://soumyaranjan12.github.io/MindMaps/hana-cpu-mindmap.html) (hosted on GitHub Pages; click nodes to expand details).  
-
+2. **SAP HANA Transport Issues Mind Map**  
+   - **Description**: Outlines common transport-related issues in SAP HANA (e.g., transport failures, object conflicts, missing dependencies), with fixes (e.g., validate transport routes, resolve conflicts, import corrections), parameter considerations, and diagnostic tools (e.g., STMS, transport logs). Ideal for BASIS admins managing system landscapes.  
+   - **Interactive Version**: [transport_issues_mindmap.html](https://soumyaranjan12.github.io/MindMaps/transport_issues_mindmap.html) (hosted on GitHub Pages; click nodes to explore solutions).  
 
 *More mind maps will be added as they’re created. Check back for updates!*
 
