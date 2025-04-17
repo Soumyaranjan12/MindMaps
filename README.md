@@ -22,7 +22,7 @@ The primary goal of this repository is to share easy-to-understand, visual resou
 
 ### 3. **Convergent Mediation, Charging, and Invoicing Mind Map**
 - **Description**: Explores the interconnections and functionality of convergent mediation, charging, and invoicing in billing systems. Includes details on data collection from multiple sources (mediation), real-time and batch charging mechanisms, invoicing workflows, and integration points. Useful for telecom billing professionals and analysts.
-- **Interactive Version**: [convergent_billing_mindmap.html](https://soumyaranjan12.github.io/MindMaps/BRIM_component_mindmap.html) (hosted on GitHub Pages; click nodes to delve into each component).
+- **Interactive Version**: [BRIM_component_mindmap.html](https://soumyaranjan12.github.io/MindMaps/BRIM_component_mindmap.html) (hosted on GitHub Pages; click nodes to delve into each component).
 
 ---
 
