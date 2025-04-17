@@ -1,23 +1,30 @@
 # Mind Maps Repository
 
-Welcome to my collection of mind maps! This repository hosts all the mind maps I’ve created, covering various topics like database optimization, troubleshooting, and more. Each mind map is designed to simplify complex concepts with clear, hierarchical structures, often including interactive versions for deeper exploration.
+Welcome to the **Mind Maps Repository**! This collection features meticulously crafted mind maps that simplify complex concepts across various domains. Whether you're a professional, student, or enthusiast, these visual resources are designed to provide actionable insights and help you tackle challenging topics.
+
+---
 
 ## Purpose
 
-The goal is to share visual, easy-to-understand resources for professionals, students, and enthusiasts. Whether you’re tackling SAP HANA performance issues or exploring other domains, these mind maps aim to provide actionable insights.
+The primary goal of this repository is to share easy-to-understand, visual resources. By organizing information in hierarchical structures, these mind maps aim to make complex subjects approachable for anyone exploring topics like SAP HANA, telecom billing systems, and more.
+
+---
 
 ## Available Mind Maps
 
-Below is a list of mind maps in this repository. Each includes a brief description and links to interactive or static versions where available.
+### 1. **SAP HANA CPU Utilization Mind Map**
+- **Description**: Outlines 8 causes of high CPU usage in SAP HANA (e.g., inefficient queries, missing indexes), their fixes (e.g., query optimization, indexing), parameter changes (e.g., `maximum_number_of_sessions`), and SQL views/statements (e.g., `M_SQL_PLAN_CACHE`) for diagnosis.
+- **Interactive Version**: [hana-cpu-mindmap.html](https://soumyaranjan12.github.io/MindMaps/hana-cpu-mindmap.html) (hosted on GitHub Pages; click nodes to expand details).
 
-1. **SAP HANA CPU Utilization Mind Map**  
-   - **Description**: Outlines 8 causes of high CPU usage in SAP HANA (e.g., inefficient queries, missing indexes), their fixes (e.g., query optimization, indexing), parameter changes (e.g., `maximum_number_of_sessions`), and SQL views/statements (e.g., `M_SQL_PLAN_CACHE`) for diagnosis.  
-   - **Interactive Version**: [hana-cpu-mindmap.html](https://soumyaranjan12.github.io/MindMaps/hana-cpu-mindmap.html) (hosted on GitHub Pages; click nodes to expand details).  
-2. **SAP HANA Transport Issues Mind Map**  
-   - **Description**: Outlines common transport-related issues in SAP HANA (e.g., transport failures, object conflicts, missing dependencies), with fixes (e.g., validate transport routes, resolve conflicts, import corrections), parameter considerations, and diagnostic tools (e.g., STMS, transport logs). Ideal for BASIS admins managing system landscapes.  
-   - **Interactive Version**: [transport_issues_mindmap.html](https://soumyaranjan12.github.io/MindMaps/transport_issues_mindmap.html) (hosted on GitHub Pages; click nodes to explore solutions).  
+### 2. **SAP HANA Transport Issues Mind Map**
+- **Description**: Outlines common transport-related issues in SAP HANA (e.g., transport failures, object conflicts, missing dependencies), with fixes (e.g., validate transport routes, resolve conflicts, import corrections), parameter considerations, and diagnostic tools (e.g., STMS, transport logs). Ideal for BASIS admins managing system landscapes.
+- **Interactive Version**: [transport_issues_mindmap.html](https://soumyaranjan12.github.io/MindMaps/transport_issues_mindmap.html) (hosted on GitHub Pages; click nodes to explore solutions).
 
-*More mind maps will be added as they’re created. Check back for updates!*
+### 3. **Convergent Mediation, Charging, and Invoicing Mind Map**
+- **Description**: Explores the interconnections and functionality of convergent mediation, charging, and invoicing in billing systems. Includes details on data collection from multiple sources (mediation), real-time and batch charging mechanisms, invoicing workflows, and integration points. Useful for telecom billing professionals and analysts.
+- **Interactive Version**: [convergent_billing_mindmap.html](https://soumyaranjan12.github.io/MindMaps/BRIM_component_mindmap.html) (hosted on GitHub Pages; click nodes to delve into each component).
+
+---
 
 ## Setup Instructions
 
